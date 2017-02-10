@@ -21,6 +21,7 @@ kitchen http://bucket.kitchen.io/twtxt.txt
 lahvak http://lahvak.github.io/twtxt/twtxt.txt
 ljones http://diary.ljones.id.au/
 luzifer http://twtxt.luzifer.io/
+mdom https://domgoergen.com/twtxt/mdom.txt
 mian http://miangraham.com/twtxt.txt
 mmk2410 https://mmk2410.org/twtxt.txt
 myles https://twtxt.mylesb.ca/twtxt.txt
