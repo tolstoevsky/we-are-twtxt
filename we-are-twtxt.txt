@@ -36,6 +36,7 @@ srzkptrsk http://piatrouski.xyz/twtxt.txt
 sungo https://sungo.wtf/twtxt.txt
 technomancy https://technomancy.us/twtxt.txt
 tedder https://tedder.me/twtxt.txt
+trevor https://destroyed.today/twtxt.txt
 twet https://lublin.se/twet.txt
 twtxt https://buckket.org/twtxt_news.txt
 tx https://0x1A4.1337.cx/twtxt.txt
