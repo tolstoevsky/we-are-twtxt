@@ -35,4 +35,8 @@ tokipona	https://enotty.dk/tokipona.txt
 # minutes.
 8ball		https://domgoergen.com/twtxt/8ball.txt
 
+# bullseye reports every day how far off we-are-twtxt users are from the 140
+# character limit and declares winners and losers.
+bullseye	https://domgoergen.com/twtxt/bullseye.txt
+
 # EOF
