@@ -1,6 +1,10 @@
 # We are twtxt bots
 # A curated list of accounts with automated postings.
 
+# Our two meta bots, “We Are Twtxt” and “We Are Twtxt Bots”:
+we_are_twtxt	https://enotty.dk/we-are-twtxt.txt
+we_are_bots	https://enotty.dk/we-are-bots.txt
+
 # Beyond the Known — 365 Days of Exploration
 # Deepities from Takuin Minamoto's ebook of the same name.
 beyond		https://enotty.dk/beyond.txt
