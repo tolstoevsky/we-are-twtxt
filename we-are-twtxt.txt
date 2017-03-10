@@ -45,5 +45,4 @@ twtxt https://buckket.org/twtxt_news.txt
 tx https://0x1A4.1337.cx/twtxt.txt
 umonkey http://land.umonkey.net/twtxt.txt
 vinc https://vinc.cc/twtxt.txt
-xena https://xena.greedo.xeserv.us/files/xena.txt
 xn https://xn.pinkhamster.net/twtxt.txt
