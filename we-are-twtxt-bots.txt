@@ -1,4 +1,4 @@
-# We are twtxt bot
+# We are twtxt bots
 # A curated list of accounts with automated postings.
 
 # Beyond the Known — 365 Days of Exploration
