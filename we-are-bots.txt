@@ -30,4 +30,9 @@ tiktok		https://enotty.dk/tiktok.txt
 # a day. A new course starts every 124 days. ;)
 tokipona	https://enotty.dk/tokipona.txt
 
+# 8ball is a magic 8-ball that will answer any question that is directed only
+# to it and ends with an exclamation point. It checks we-are-twtxt every ten
+# minutes.
+8ball		https://domgoergen.com/twtxt/8ball.txt
+
 # EOF
