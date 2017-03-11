@@ -34,6 +34,7 @@ pelmel http://pelmel.org/twtxt.txt
 quite https://lublin.se/twtxt.txt
 raguay http://customct.com/twtxt.txt
 ruebot http://ruebot.github.io/twtxt/twtxt.txt
+skingrapher https://skingrapher.com/t/tw.txt
 srzkptrsk http://piatrouski.xyz/twtxt.txt
 sungo https://sungo.wtf/twtxt.txt
 technomancy https://technomancy.us/twtxt.txt
