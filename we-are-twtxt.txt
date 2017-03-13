@@ -1,4 +1,3 @@
-ColtonDRG https://twtxt.coltondrg.com/
 abliss https://abliss.keybase.pub/twtxt.txt#7a778276dd852edc65217e759cba637a28b4426b
 adiabetic https://www.frogorbits.com/twtxt.txt
 akraut https://akraut.keybase.pub/twtxt.txt
@@ -10,6 +9,7 @@ bhearsum http://hearsum.ca/~bhearsum/twtxt.txt
 boxofbats https://www.boxofbats.com/t/
 buckket https://buckket.org/twtxt.txt
 clementd http://clementd-files.cellar.services.clever-cloud.com/twtxt.txt
+coltondrg https://twtxt.coltondrg.com/
 david http://post.aldebaran.uberspace.de/twtxt/david.txt
 durcheinandr https://durcheinandr.de/twtxt.txt
 edsu http://edsu.github.io/twtxt/twtxt.txt
@@ -43,7 +43,7 @@ trevor https://destroyed.today/twtxt.txt
 tux0r https://rosaelefanten.org/twtxt.txt
 twet https://lublin.se/twet.txt
 twtxt https://buckket.org/twtxt_news.txt
-tx https://0x1A4.1337.cx/twtxt.txt
+tx https://0x1a4.1337.cx/twtxt.txt
 umonkey http://land.umonkey.net/twtxt.txt
 vinc https://vinc.cc/twtxt.txt
 xn https://xn.pinkhamster.net/twtxt.txt
