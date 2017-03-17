@@ -22,8 +22,8 @@ moon		https://enotty.dk/moon.txt
 # Soltempore tweets a greeting to most capitals (and some cities that
 # are not) in the world as the sun sweeps over the land. This is a
 # very noisy feed.
-# Caudasol contains the 3 latest tweets from soltempore only.
 soltempore	https://enotty.dk/soltempore.txt
+# Caudasol contains the 3 latest tweets from soltempore.
 caudasol	https://enotty.dk/caudasol.txt
 
 # Tiktok tweets a heartbeat every full hour. Useful if you want to be
