@@ -43,4 +43,7 @@ tokipona	https://enotty.dk/tokipona.txt
 # character limit and declares winners and losers.
 bullseye	https://domgoergen.com/twtxt/bullseye.txt
 
+# ShowHN tweets projects seen on https://news.ycombinator.com/shownew
+showhn		https://enotty.dk/showhn.txt
+
 # EOF
