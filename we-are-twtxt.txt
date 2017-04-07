@@ -17,7 +17,6 @@ esc http://escowles.github.io/tw.txt
 freemor http://freemor.homelinux.net:16019/~freemor/twtxt.txt
 ionincognito http://resistit.net/twtxt/twtxt.txt
 joel https://joeldueck.com/twtxt.txt
-josch http://blog.schweizerjochen.de/twtxt.txt
 kas https://enotty.dk/twtxt.txt
 kasdk https://enotty.dk/kasdk.txt
 kitchen http://bucket.kitchen.io/twtxt.txt
