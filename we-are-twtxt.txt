@@ -8,7 +8,6 @@ bhearsum http://hearsum.ca/~bhearsum/twtxt.txt
 boxofbats https://www.boxofbats.com/t/
 buckket https://buckket.org/twtxt.txt
 clementd http://clementd-files.cellar.services.clever-cloud.com/twtxt.txt
-coltondrg https://twtxt.coltondrg.com/
 david http://post.aldebaran.uberspace.de/twtxt/david.txt
 durcheinandr https://durcheinandr.de/twtxt.txt
 edsu http://edsu.github.io/twtxt/twtxt.txt
