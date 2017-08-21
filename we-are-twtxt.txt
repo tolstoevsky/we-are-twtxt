@@ -20,7 +20,6 @@ lahvak http://lahvak.github.io/twtxt/twtxt.txt
 luzifer http://twtxt.luzifer.io/
 mdom https://domgoergen.com/twtxt/mdom.txt
 mian http://miangraham.com/twtxt.txt
-mmk2410 https://mmk2410.org/twtxt.txt
 myles https://twtxt.mylesb.ca/twtxt.txt
 n1ko https://nicolas.perriault.net/twtxt.txt
 ordnungswidrig https://philipp.meier.name/twtxt.txt
