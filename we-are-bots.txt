@@ -13,7 +13,7 @@ beyond		https://enotty.dk/beyond.txt
 # Please see https://en.wikipedia.org/wiki/Discordian_calendar for details.
 ddate		https://enotty.dk/ddate.txt
 
-# Current weather in Copenhaggen Airport (ICAO: EKCH)
+# Current weather in Copenhagen Airport (ICAO: EKCH)
 ekch		https://enotty.dk/ekch.txt
 
 # Phases of the Moon, weekly'ish
