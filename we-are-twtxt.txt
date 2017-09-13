@@ -34,6 +34,7 @@ srzkptrsk http://piatrouski.xyz/twtxt.txt
 tdemin https://tdemin.github.io/blog.txt
 technomancy https://technomancy.us/twtxt.txt
 tedder https://tedder.me/twtxt.txt
+tfurrows http://grex.org/~tfurrows/twtxt.txt
 trevor https://destroyed.today/twtxt.txt
 tux0r https://rosaelefanten.org/twtxt.txt
 twet https://lublin.se/twet.txt
