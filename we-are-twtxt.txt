@@ -18,6 +18,7 @@ joel https://joeldueck.com/twtxt.txt
 kas https://enotty.dk/twtxt.txt
 kasdk https://enotty.dk/kasdk.txt
 lahvak http://lahvak.github.io/twtxt/twtxt.txt
+leveck https://leveck.us/leveck.txt
 luzifer http://twtxt.luzifer.io/
 mdom https://domgoergen.com/twtxt/mdom.txt
 mian http://miangraham.com/twtxt.txt
@@ -44,4 +45,3 @@ tx https://0x1a4.1337.cx/twtxt.txt
 umonkey http://land.umonkey.net/twtxt.txt
 vinc https://vinc.cc/twtxt.txt
 webi https://twtxt.opstack.info/twtxt.txt
-leveck https://leveck.us/leveck.txt
