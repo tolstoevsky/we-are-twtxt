@@ -33,7 +33,6 @@ reednj http://twtxt.xyz/user/8c2b4bbfa328944ba.txt
 ruebot http://ruebot.github.io/twtxt/twtxt.txt
 skingrapher https://skingrapher.com/t/tw.txt
 srzkptrsk http://piatrouski.xyz/twtxt.txt
-tdemin https://tdemin.github.io/blog.txt
 technomancy https://technomancy.us/twtxt.txt
 tedder https://tedder.me/twtxt.txt
 tfurrows http://grex.org/~tfurrows/twtxt.txt
