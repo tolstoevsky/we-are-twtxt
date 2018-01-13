@@ -9,6 +9,7 @@ boxofbats https://www.boxofbats.com/t/
 buckket https://buckket.org/twtxt.txt
 c-keen http://pestilenz.org/~ckeen/twtxt.txt
 clementd http://clementd-files.cellar.services.clever-cloud.com/twtxt.txt
+dave http://davebucklin.com/twtxt.txt
 david http://post.aldebaran.uberspace.de/twtxt/david.txt
 edsu http://edsu.github.io/twtxt/twtxt.txt
 esc http://escowles.github.io/tw.txt
