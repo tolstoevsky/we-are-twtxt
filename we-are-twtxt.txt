@@ -36,7 +36,6 @@ ruebot http://ruebot.github.io/twtxt/twtxt.txt
 skingrapher https://skingrapher.com/t/tw.txt
 srzkptrsk http://piatrouski.xyz/twtxt.txt
 sysdharma https://twtxt.lpho.de/twtxt.txt
-technomancy https://technomancy.us/twtxt.txt
 tedder https://tedder.me/twtxt.txt
 tfurrows http://grex.org/~tfurrows/twtxt.txt
 tomasino http://tomasino.sdf.org/twtxt.txt
