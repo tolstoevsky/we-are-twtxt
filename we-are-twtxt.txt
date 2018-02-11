@@ -22,6 +22,7 @@ lahvak http://lahvak.github.io/twtxt/twtxt.txt
 leveck https://leveck.us/leveck.txt
 luzifer http://twtxt.luzifer.io/
 mdom https://domgoergen.com/twtxt/mdom.txt
+mdosch https://mdosch.de/twtxt.txt
 mian http://miangraham.com/twtxt.txt
 myles https://twtxt.mylesb.ca/twtxt.txt
 n1ko https://nicolas.perriault.net/twtxt.txt
