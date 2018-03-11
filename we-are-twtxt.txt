@@ -39,7 +39,6 @@ srzkptrsk http://piatrouski.xyz/twtxt.txt
 sysdharma https://twtxt.lpho.de/twtxt.txt
 tedder https://tedder.me/twtxt.txt
 tfurrows http://grex.org/~tfurrows/twtxt.txt
-tomasino http://tomasino.sdf.org/twtxt.txt
 trevor https://destroyed.today/twtxt.txt
 tux0r https://rosaelefanten.org/twtxt.txt
 twet https://lublin.se/twet.txt
