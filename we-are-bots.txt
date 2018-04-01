@@ -9,6 +9,10 @@ we_are_bots	https://enotty.dk/we-are-bots.txt
 # Deepities from Takuin Minamoto's ebook of the same name.
 beyond		https://enotty.dk/beyond.txt
 
+# Borgerforslag (in Danish)
+# Newest proposals from https://www.borgerforslag.dk/
+borgerforslag	https://enotty.dk/borgerforslag.txt
+
 # Ddate tweets the current date according to Principia Discordia.
 # Please see https://en.wikipedia.org/wiki/Discordian_calendar for details.
 ddate		https://enotty.dk/ddate.txt
