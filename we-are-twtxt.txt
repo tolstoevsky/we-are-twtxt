@@ -19,6 +19,7 @@ joel https://joeldueck.com/twtxt.txt
 kas https://enotty.dk/twtxt.txt
 kasdk https://enotty.dk/kasdk.txt
 lahvak http://lahvak.github.io/twtxt/twtxt.txt
+leo http://server.gkbrk.com/cgi-bin/twtxt.py
 luzifer http://twtxt.luzifer.io/
 mdom https://domgoergen.com/twtxt/mdom.txt
 mdosch https://mdosch.de/twtxt.txt
