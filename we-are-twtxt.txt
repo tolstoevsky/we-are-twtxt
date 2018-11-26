@@ -46,3 +46,4 @@ twtxt https://buckket.org/twtxt_news.txt
 tx https://shroom.party/twtxt.txt
 umonkey http://land.umonkey.net/twtxt.txt
 vinc https://vinc.cc/twtxt.txt
+von https://tilde.town/~von/twtxt.txt
