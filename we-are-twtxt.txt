@@ -1,5 +1,4 @@
 71m https://timmorgan.org/twtxt.txt
-KatolaZ https://kalos.mine.nu/KatolaZ.twtxt
 abliss https://abliss.keybase.pub/twtxt.txt#7a778276dd852edc65217e759cba637a28b4426b
 frogorbits.com https://www.frogorbits.com/twtxt.txt
 akraut https://akraut.keybase.pub/twtxt.txt
@@ -17,6 +16,7 @@ ionincognito http://resistit.net/twtxt/twtxt.txt
 joel https://joeldueck.com/twtxt.txt
 kas https://enotty.dk/twtxt.txt
 kasdk https://enotty.dk/kasdk.txt
+katolaz https://kalos.mine.nu/KatolaZ.twtxt
 lahvak http://lahvak.github.io/twtxt/twtxt.txt
 metamurks https://www.metamurks.org/twtxt.txt
 mdom https://domgoergen.com/twtxt/mdom.txt
