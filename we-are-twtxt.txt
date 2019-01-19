@@ -8,6 +8,7 @@ benaiah https://benaiah.me/twtxt.txt
 buckket https://buckket.org/twtxt.txt
 c-keen http://pestilenz.org/~ckeen/twtxt.txt
 clementd http://clementd-files.cellar.services.clever-cloud.com/twtxt.txt
+dave https://davebucklin.com/twtxt.txt
 david http://post.aldebaran.uberspace.de/twtxt/david.txt
 edsu http://edsu.github.io/twtxt/twtxt.txt
 esc http://escowles.github.io/tw.txt
@@ -31,9 +32,11 @@ ruebot http://ruebot.github.io/twtxt/twtxt.txt
 sdk https://codevoid.de/tw.txt
 skingrapher https://skingrapher.com/t/tw.txt
 sysdharma https://twtxt.lpho.de/twtxt.txt
+tfurrows https://grex.org/~tfurrows/twtxt.txt
 tux0r https://rosaelefanten.org/twtxt.txt
 twet https://lublin.se/twet.txt
 twtxt https://buckket.org/twtxt_news.txt
 tx https://shroom.party/twtxt.txt
+umonkey https://land.umonkey.net/twtxt.txt
 vinc https://vinc.cc/twtxt.txt
 von https://tilde.town/~von/twtxt.txt
