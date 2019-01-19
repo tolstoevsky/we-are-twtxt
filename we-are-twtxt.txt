@@ -14,7 +14,6 @@ edsu http://edsu.github.io/twtxt/twtxt.txt
 esc http://escowles.github.io/tw.txt
 freemor https://freemor.homelinux.net/~freemor/twtxt.txt
 ionincognito http://resistit.net/twtxt/twtxt.txt
-joel https://joeldueck.com/twtxt.txt
 kas https://enotty.dk/twtxt.txt
 kasdk https://enotty.dk/kasdk.txt
 katolaz https://kalos.mine.nu/KatolaZ.twtxt
