@@ -18,7 +18,7 @@ kas https://enotty.dk/twtxt.txt
 kasdk https://enotty.dk/kasdk.txt
 katolaz https://kalos.mine.nu/KatolaZ.twtxt
 lahvak http://lahvak.github.io/twtxt/twtxt.txt
-metamurks https://www.metamurks.org/twtxt.txt
+mk https://www.metamurks.org/twtxt.txt
 mdom https://domgoergen.com/twtxt/mdom.txt
 mdosch https://mdosch.de/twtxt.txt
 nblade http://nblade.sdf.org/twtxt/twtxt.txt
