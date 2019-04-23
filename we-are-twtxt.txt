@@ -1,6 +1,5 @@
 71m https://timmorgan.org/twtxt.txt
 abliss https://abliss.keybase.pub/twtxt.txt#7a778276dd852edc65217e759cba637a28b4426b
-frogorbits.com https://www.frogorbits.com/twtxt.txt
 akraut https://akraut.keybase.pub/twtxt.txt
 alip https://dev.exherbo.org/~alip/twtxt.txt
 autoalk http://autoalk.tk/twtxt/autoalk.txt
@@ -13,6 +12,7 @@ david http://post.aldebaran.uberspace.de/twtxt/david.txt
 edsu http://edsu.github.io/twtxt/twtxt.txt
 esc http://escowles.github.io/tw.txt
 freemor https://freemor.homelinux.net/~freemor/twtxt.txt
+frogorbits.com https://www.frogorbits.com/twtxt.txt
 ionincognito http://resistit.net/twtxt/twtxt.txt
 jb55 https://jb55.com/twtxt.txt
 kas https://enotty.dk/twtxt.txt
