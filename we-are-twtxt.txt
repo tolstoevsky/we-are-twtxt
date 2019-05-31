@@ -13,6 +13,7 @@ edsu http://edsu.github.io/twtxt/twtxt.txt
 esc http://escowles.github.io/tw.txt
 freemor https://freemor.homelinux.net/~freemor/twtxt.txt
 frogorbits.com https://www.frogorbits.com/twtxt.txt
+gbmor https://gbmor.dev/twtxt.txt
 ionincognito http://resistit.net/twtxt/twtxt.txt
 jb55 https://jb55.com/twtxt.txt
 kas https://enotty.dk/twtxt.txt
