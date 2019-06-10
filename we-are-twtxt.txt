@@ -11,6 +11,7 @@ dave https://davebucklin.com/twtxt.txt
 david http://post.aldebaran.uberspace.de/twtxt/david.txt
 edsu http://edsu.github.io/twtxt/twtxt.txt
 esc http://escowles.github.io/tw.txt
+fegffb https://feg-ffb.de/twtxt.txt
 freemor https://freemor.homelinux.net/~freemor/twtxt.txt
 frogorbits.com https://www.frogorbits.com/twtxt.txt
 gbmor https://gbmor.dev/twtxt.txt
