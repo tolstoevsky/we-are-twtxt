@@ -28,6 +28,7 @@ mk https://www.metamurks.org/twtxt.txt
 mr_woggle https://tilde.town/~mr_woggle/twtxt.txt
 mushmouth https://mushmouth.sdf.org/twtxt.txt
 nblade http://nblade.sdf.org/twtxt/twtxt.txt
+nonlinear https://nonlinear.radiofreqs.space/twtxt.txt
 ordnungswidrig https://philipp.meier.name/twtxt.txt
 pelmel http://pelmel.org/twtxt.txt
 pete https://petedeas.co.uk/twtxt.txt
@@ -45,4 +46,3 @@ tx https://shroom.party/twtxt.txt
 umonkey https://land.umonkey.net/twtxt.txt
 vinc https://vinc.cc/twtxt.txt
 von https://tilde.town/~von/twtxt.txt
-nonlinear https://nonlinear.radiofreqs.space/twtxt.txt
