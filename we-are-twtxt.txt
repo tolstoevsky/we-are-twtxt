@@ -26,7 +26,7 @@ mdom https://domgoergen.com/twtxt/mdom.txt
 mdosch https://mdosch.de/twtxt.txt
 mk https://www.metamurks.org/twtxt.txt
 mr_woggle https://tilde.town/~mr_woggle/twtxt.txt
-mushmouth https://mushmouth.sdf.org/twtxt.txt
+mushmouth https://mushmouth.ca/twtxt.txt
 nblade http://nblade.sdf.org/twtxt/twtxt.txt
 nonlinear https://nonlinear.radiofreqs.space/twtxt.txt
 ordnungswidrig https://philipp.meier.name/twtxt.txt
