@@ -33,7 +33,6 @@ nblade http://nblade.sdf.org/twtxt/twtxt.txt
 nonlinear https://nonlinear.radiofreqs.space/twtxt.txt
 ordnungswidrig https://philipp.meier.name/twtxt.txt
 pelmel http://pelmel.org/twtxt.txt
-pete https://petedeas.co.uk/twtxt.txt
 quite https://lublin.se/twtxt.txt
 reednj http://twtxt.xyz/user/8c2b4bbfa328944ba.txt
 ruebot http://ruebot.github.io/twtxt/twtxt.txt
