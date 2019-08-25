@@ -17,6 +17,7 @@ freemor https://freemor.homelinux.net/~freemor/twtxt.txt
 frogorbits.com https://www.frogorbits.com/twtxt.txt
 fundor333 https://fundor333.com/twtxt.txt
 gbmor https://gbmor.dev/twtxt.txt
+gil https://twtxt.herokuapp.com/
 ionincognito http://resistit.net/twtxt/twtxt.txt
 jb55 https://jb55.com/twtxt.txt
 kas https://enotty.dk/twtxt.txt
