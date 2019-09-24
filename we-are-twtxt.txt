@@ -40,6 +40,7 @@ reednj http://twtxt.xyz/user/8c2b4bbfa328944ba.txt
 ruebot http://ruebot.github.io/twtxt/twtxt.txt
 sdk https://codevoid.de/tw.txt
 skingrapher https://skingrapher.com/t/tw.txt
+svf http://scott.vranesh-fallin.com/twtxt.txt
 sysdharma https://twtxt.lpho.de/twtxt.txt
 tfurrows https://grex.org/~tfurrows/twtxt.txt
 tux0r https://twtxt.rosaelefanten.org/
