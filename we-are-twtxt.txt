@@ -18,6 +18,7 @@ fundor333 https://fundor333.com/twtxt.txt
 gbmor https://gbmor.dev/twtxt.txt
 gil https://twtxt.herokuapp.com/
 jb55 https://jb55.com/twtxt.txt
+johanbove https://johanbove.info/twtxt.txt
 kas https://enotty.dk/twtxt.txt
 kasdk https://enotty.dk/kasdk.txt
 katolaz https://kalos.mine.nu/KatolaZ.twtxt
@@ -48,4 +49,3 @@ tx https://shroom.party/twtxt.txt
 umonkey https://land.umonkey.net/twtxt.txt
 vinc https://vinc.cc/twtxt.txt
 von https://tilde.town/~von/twtxt.txt
-johanbove https://johanbove.info/twtxt.txt
