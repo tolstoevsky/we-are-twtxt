@@ -1,6 +1,7 @@
 71m https://timmorgan.org/twtxt.txt
 abliss https://abliss.keybase.pub/twtxt.txt#7a778276dd852edc65217e759cba637a28b4426b
 akraut https://akraut.keybase.pub/twtxt.txt
+alip https://dev.exherbo.org/~alip/twtxt.txt
 autoalk http://autoalk.tk/twtxt/autoalk.txt
 benaiah https://benaiah.me/twtxt.txt
 buckket https://buckket.org/twtxt.txt
