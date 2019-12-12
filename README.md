@@ -10,3 +10,9 @@ me know if you want to be added.
 ## How to import the list
 
     xargs -n2 twtxt follow < we-are-twtxt.txt
+
+## Files
+
+  - `we-are-twtxt.txt` list of active twtxt users with working links
+  - `we-were-twtxt.txt` users with links that haven't been working for awhile
+  - `we-are-bots.txt` list of bots
