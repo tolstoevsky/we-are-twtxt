@@ -1,0 +1,53 @@
+#!/usr/bin/env sh
+
+usage () {
+  printf "usage: $0 <update|check>\n\n"
+  printf "  commands\n\n"
+  printf "    check [FILE] - outputs working/broken links to std{out,err}\n"
+  printf "    update       - moves working/broken links to we-{are,were}-twtxt.txt\n\n"
+  printf "  examples\n\n"
+  printf "    show all broken links\n"
+  printf "      cat we-{are,were}-twtxt.txt | ./are-we-twtxt check /dev/stdin >/dev/null\n\n"
+  printf "    check to see if any broken links are working again\n"
+  printf "      ./are-we-twtxt check we-were-twtxt.txt 2>/dev/null\n\n"
+  printf "    update all\n"
+  printf "      ./are-we-twtxt update\n\n"
+}
+
+check() {
+  while read -r name url
+  do
+    if [ -z $name ] || [[ ${name:0:1} = "#" ]]; then continue; fi;
+
+    (
+    if curl -o /dev/null -m ${2:-5} -fsLI "$url"; then
+      printf '%s %s\n' "$name" "$url"
+    else
+      printf '%s %s\n' "$name" "$url" 1>&2
+    fi
+    ) &
+  done 
+  
+  wait
+}
+
+update() {
+  cat we-are-twtxt.txt we-were-twtxt.txt \
+    | sort -u \
+    | check > we-are-twtxt.txt.new 2> we-were-twtxt.txt.new
+
+  sort -u we-are-twtxt.txt.new > we-are-twtxt.txt
+  sort -u we-were-twtxt.txt.new > we-were-twtxt.txt
+}
+
+if [[ $1 = "update" ]]; then
+  update
+elif [[ $1 = "--help" ]]; then
+  usage
+elif [[ $1 = "check" ]]; then
+  shift
+  check "$@" < ${1:-we-are-twtxt.txt}
+else
+  usage
+fi
+
