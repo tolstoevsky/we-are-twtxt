@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/bin/sh
 
 usage () {
   printf "usage: $0 <update|check>\n\n"
@@ -15,12 +15,10 @@ usage () {
 }
 
 check() {
-  while read -r name url
+  awk '/^[^#]/ && NF == 2' | while read -r name url
   do
-    if [ -z $name ] || [[ ${name:0:1} = "#" ]]; then continue; fi;
-
     (
-    if curl -o /dev/null -m ${2:-5} -fsLI "$url"; then
+    if curl -o /dev/null -m 5 -fsLI "$url"; then
       printf '%s %s\n' "$name" "$url"
     else
       printf '%s %s\n' "$name" "$url" 1>&2
@@ -40,14 +38,10 @@ update() {
   sort -u we-were-twtxt.txt.new > we-were-twtxt.txt
 }
 
-if [[ $1 = "update" ]]; then
-  update
-elif [[ $1 = "--help" ]]; then
-  usage
-elif [[ $1 = "check" ]]; then
-  shift
-  check "$@" < ${1:-we-are-twtxt.txt}
-else
-  usage
-fi
+case $1 in
+	update ) update ;;
+	check  ) shift; check "$@" < "${1:-we-are-twtxt.txt}" ;;
+	*      ) usage ;;
+esac
 
+exit 0
