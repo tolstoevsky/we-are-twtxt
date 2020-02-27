@@ -34,6 +34,7 @@ mr_woggle https://tilde.town/~mr_woggle/twtxt.txt
 mushmouth https://mushmouth.ca/twtxt.txt
 nblade http://nblade.sdf.org/twtxt/twtxt.txt
 nonlinear https://nonlinear.radiofreqs.space/twtxt.txt
+oevl gopher://oevl.info:70/0/twtxt.txt
 ordnungswidrig https://philipp.meier.name/twtxt.txt
 pelmel http://pelmel.org/twtxt.txt
 port70 gopher://port70.dk:70/0/port70.txt
