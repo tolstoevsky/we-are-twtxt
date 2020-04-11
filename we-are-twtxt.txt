@@ -1,5 +1,6 @@
 71m https://timmorgan.org/twtxt.txt
 abliss https://abliss.keybase.pub/twtxt.txt#7a778276dd852edc65217e759cba637a28b4426b
+akraut https://akraut.keybase.pub/twtxt.txt
 alip https://dev.exherbo.org/~alip/twtxt.txt
 autoalk http://autoalk.tk/twtxt/autoalk.txt
 benaiah https://benaiah.me/twtxt.txt
@@ -29,6 +30,7 @@ mdom https://domgoergen.com/twtxt/mdom.txt
 mdosch https://mdosch.de/twtxt.txt
 mr_woggle https://tilde.town/~mr_woggle/twtxt.txt
 nblade http://nblade.sdf.org/twtxt/twtxt.txt
+nonlinear https://nonlinear.radiofreqs.space/twtxt.txt
 oevl gopher://oevl.info:70/0/twtxt.txt
 pelmel http://pelmel.org/twtxt.txt
 port70 gopher://port70.dk:70/0/port70.txt
