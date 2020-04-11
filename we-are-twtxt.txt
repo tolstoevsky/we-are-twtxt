@@ -8,7 +8,6 @@ buckket https://buckket.org/twtxt.txt
 c-keen http://pestilenz.org/~ckeen/twtxt.txt
 clementd http://clementd-files.cellar.services.clever-cloud.com/twtxt.txt
 dave https://davebucklin.com/twtxt.txt
-david http://post.aldebaran.uberspace.de/twtxt/david.txt
 deepend https://yourtilde.com/~deepend/twtxt.txt
 edsu http://edsu.github.io/twtxt/twtxt.txt
 esc http://escowles.github.io/tw.txt
@@ -23,20 +22,16 @@ jcolag https://john.colagioia.net/twtxt.txt
 johanbove https://johanbove.info/twtxt.txt
 kas https://enotty.dk/twtxt.txt
 kasdk https://enotty.dk/kasdk.txt
-katolaz https://kalos.mine.nu/KatolaZ.twtxt
 lahvak http://lahvak.github.io/twtxt/twtxt.txt
 leo https://www.gkbrk.com/twtxt.txt
 lucidiot https://tilde.town/~lucidiot/twtxt.txt
 marado https://tilde.pt/~marado/twtxt.txt
 mdom https://domgoergen.com/twtxt/mdom.txt
 mdosch https://mdosch.de/twtxt.txt
-mk https://www.metamurks.org/twtxt.txt
 mr_woggle https://tilde.town/~mr_woggle/twtxt.txt
-mushmouth https://mushmouth.ca/twtxt.txt
 nblade http://nblade.sdf.org/twtxt/twtxt.txt
 nonlinear https://nonlinear.radiofreqs.space/twtxt.txt
 oevl gopher://oevl.info:70/0/twtxt.txt
-ordnungswidrig https://philipp.meier.name/twtxt.txt
 pelmel http://pelmel.org/twtxt.txt
 port70 gopher://port70.dk:70/0/port70.txt
 quite https://lublin.se/twtxt.txt
@@ -44,7 +39,6 @@ reednj http://twtxt.xyz/user/8c2b4bbfa328944ba.txt
 ruebot http://ruebot.github.io/twtxt/twtxt.txt
 sdk https://codevoid.de/tw.txt
 sixbitproxywax https://sixbitproxywax.com/twtxt.txt
-skingrapher https://skingrapher.com/t/tw.txt
 svf http://scott.vranesh-fallin.com/twtxt.txt
 sysdharma https://twtxt.lpho.de/twtxt.txt
 tfurrows https://grex.org/~tfurrows/twtxt.txt
@@ -53,7 +47,6 @@ tux0r https://twtxt.rosaelefanten.org/
 twet https://lublin.se/twet.txt
 twtxt https://buckket.org/twtxt_news.txt
 tx https://shroom.party/twtxt.txt
-umonkey https://land.umonkey.net/twtxt.txt
 vinc https://vinc.cc/twtxt.txt
 von https://tilde.town/~von/twtxt.txt
 xandkar https://xandkar.net/twtxt.txt
