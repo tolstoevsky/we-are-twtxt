@@ -45,6 +45,7 @@ svf http://scott.vranesh-fallin.com/twtxt.txt
 sysdharma https://twtxt.lpho.de/twtxt.txt
 tfurrows https://grex.org/~tfurrows/twtxt.txt
 tildebeast https://tilde.team/~tildebeast/twtxt/twtxt.txt
+tolstoevsky https://tolstoevsky.ml/twtxt.txt
 tux0r https://twtxt.rosaelefanten.org/
 twet https://lublin.se/twet.txt
 twtxt https://buckket.org/twtxt_news.txt
